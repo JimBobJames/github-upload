@@ -4,4 +4,8 @@ Don't Want these comments
 
 And Some more
 
+<<<<<<< HEAD
 test
+=======
+Have had enough comments
+>>>>>>> 04dc5c2 (Enough is enough)
